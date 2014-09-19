@@ -26,5 +26,10 @@ namespace WindowsFormsApplication1
         {
             MessageBox.Show("Develp");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Feature 1");
+        }
     }
 }
